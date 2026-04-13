@@ -73,7 +73,6 @@ lazydeal/
 ├── lazydeal.exe      主程序
 ├── config.json       配置文件（首次运行自动生成，保存标定坐标）
 ├── logs/             运行日志（按日期自动生成）
-└── README.md         项目说明
 ```
 
 ---
